@@ -1,0 +1,7 @@
+{
+  "name": "OneVerse AI",
+  "description": "An all-in-one AI Assistant and Productivity Hub. Chat with an advanced AI, generate text content and images, manage your tasks, and keep notes, all in one seamless, futuristic interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
